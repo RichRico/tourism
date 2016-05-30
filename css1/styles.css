@@ -1,0 +1,51 @@
+body{
+
+	width: auto;
+	height: auto;
+}
+
+#body{
+	margin-left: 100px;
+	width:100%;
+}
+
+#slide{
+	padding: 0 20px;
+	margin: 0 100px;
+	background: green;
+}
+
+#slide img{
+
+	width:1280px;
+	height: 700px;
+}
+
+#siguenos{
+	margin:0 100px;
+}
+
+#siguenos ul{
+	list-style-type: none;
+	text-align: right;
+}
+
+#siguenos li{
+	display: inline;
+	text-align: right;
+	margin: 0 10px 0 0;
+}
+
+#slide h1{
+	text-align: center;
+}
+#navegar ul{
+   list-style-type: none;
+   text-align: center;
+}
+
+#navegar li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
